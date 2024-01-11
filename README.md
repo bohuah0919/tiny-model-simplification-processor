@@ -42,7 +42,7 @@ From the build directory:
 Here provides a guide with pictures:
 [Tutorial](tutorial/README.md)
 
-License
+## License
 See [LICENSE](LICENSE).
 
 This project has some third-party dependencies, each of which may have independent licensing:
