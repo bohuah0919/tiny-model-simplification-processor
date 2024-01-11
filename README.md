@@ -46,5 +46,5 @@ License
 See [LICENSE](LICENSE).
 
 This project has some third-party dependencies, each of which may have independent licensing:
-[libigl](https://libigl.github.io/)
-[Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
+- [libigl](https://libigl.github.io/)
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
