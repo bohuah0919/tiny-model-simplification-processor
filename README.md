@@ -40,4 +40,4 @@ From the build directory:
 ## Tutorial
 
 Here provides a guide with pictures:
-
+[Link to README](#tutorial/README.md)
