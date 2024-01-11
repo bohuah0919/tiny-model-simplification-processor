@@ -4,9 +4,9 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Compile](#Compile)
+- [Run](#Run)
+- [Tutorial](#Tutorial)
 - [License](#license)
 
 ## Introduction
@@ -19,8 +19,9 @@ http://mgarland.org/files/papers/quadrics.pdf
 
 ## Features
 
-input model file type supports off/obj/ply.
-output model file type supports off/obj.
+Input model file type supports off/obj/ply.
+Output model file type supports off/obj.
+Simplification only supports closed shape.
 
 ## Compile
 Compile this project using the standard cmake routine:
@@ -31,11 +32,9 @@ cd build
 cmake ..
 make
 ```
-
 ## Run
 From the build directory:
 ./processor
-
 
 ## Tutorial
 
@@ -48,3 +47,6 @@ See [LICENSE](LICENSE).
 This project has some third-party dependencies, each of which may have independent licensing:
 - [libigl](https://libigl.github.io/)
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
+
+Model Source:
+- [libigl-tutorial-data](https://github.com/libigl/libigl-tutorial-data)
