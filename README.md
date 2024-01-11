@@ -19,11 +19,8 @@ http://mgarland.org/files/papers/quadrics.pdf
 
 ## Features
 
-List the key features of your project.
-
-- Feature 1
-- Feature 2
-- ...
+input model file type supports off/obj/ply.
+output model file type supports off/obj.
 
 ## Compile
 Compile this project using the standard cmake routine:
@@ -36,10 +33,11 @@ make
 ```
 
 ## Run
-From within the build directory just issue:
+From the build directory:
+./processor
 
-./example
-# Example installation steps
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-npm install
+
+## Tutorial
+
+Here provides a guide with pictures:
+
